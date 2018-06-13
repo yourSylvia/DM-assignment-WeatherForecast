@@ -1,0 +1,26 @@
+The weather data set consists of the following attributes:
+A-	Month: month in Gregorian Calendar, value from 1 to 12. 
+B-	Day: day in Gregorian Calendar, value from 1 to 31.
+C-	Lunar Month: month in Lunar Calendar, value from 1 to 12. 
+D-	Lunar Day: day in Lunar Calendar, value from 1 to 30.
+E-	Pressure: average pressure of the day, measured in hPa.
+F-	Maximum temperature: maximum air temperature of the day, measured in degree C.
+G-	Mean temperature: average temperature of the day, measured in degree C
+H-	Minimum temperature: minimum temperature of the day, measured in degree C.
+I-	Dew Point Temperature: average dew point temperature of the day, measured in 
+    degree C.
+J-	Relative Humidity: average relative humidity of the day, in %.
+K-	Amount of Cloud: average amount of cloud of the day, in %.
+L-	Rainfall: Total rainfall of the day, can be "-" (none recorded), 
+    "Trace" (very small amount only), or numerical (measured in mm).
+M-	Reduced visibility: Number of hours of reduced visibility.
+N-	Sunshine: Total bright sunshine of the day, can be "-" (none recorded), 
+    or numerical (measured in hours).
+O-	Radiation: Total solar radiation of the day, measured in MJ/m2.
+P-	Evaporation: Total evaporation of the day, measured in mm. Contains missing
+    data, denoted as "N.A." OR "N/A".
+Q-	Wind Direction: Prevailing wind direction, in degrees.
+R-	Wind Speed: Average wind speed, measured in km/h.
+
+
+Credit: Hong Kong Observatory Website
